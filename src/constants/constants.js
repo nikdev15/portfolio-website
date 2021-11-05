@@ -31,8 +31,8 @@ export const projects = [
     description: "Amazon redesign with a modern UI, complete E-Commerce functionality including Payment Processing (Stripe API) and User Authentication (Firebase).",
     video: '/videos/amazon.mp4',
     tags: ['React', 'Stripe API', 'NextJs','TailwindCSS', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/nikdev15/Amazon-2.0',
+    visit: 'http://amazon-2-0-alpha.vercel.app/',
     id: 3,
   },
 ];
